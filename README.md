@@ -1,3 +1,3 @@
 # Crud con Ionic y Firebase
 
-Integrantes: Mayerli Mendez y  Leoni Guambo, 
+Integrantes: Mayerli Mendez y  Leoni Guambo
